@@ -1,7 +1,9 @@
 Welcome to git
 
 Steps for using git
+git pull
 git init 
 git add
 git commit
 git push
+
