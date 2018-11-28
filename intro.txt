@@ -8,3 +8,4 @@ git commit
 git push
 
 thank you 
+done my changes
